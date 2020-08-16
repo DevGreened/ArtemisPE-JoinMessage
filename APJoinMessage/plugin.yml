@@ -1,0 +1,5 @@
+name: JoinMessage
+author: Void2Stepping
+api: 3.5.0
+version: 1.0
+description: a plugin that broadcasts a message whenever a player joins the server
